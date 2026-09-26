@@ -1,0 +1,15 @@
+firmware downgrade: https://t.me/OppoA37Indonesia/39943
+
+driver: https://qdloader9008.com
+
+kingroot: https://drive.google.com/file/d/1GqPZ5xyIPbyhkRoCvATKfv-973togHcO/view?usp=drivesdk
+
+oppo tools: https://drive.google.com/file/d/1GI3WRWKACKDBtxLst_PA546j-5VFeaZr/view?usp=drivesdk
+
+recovery: https://drive.google.com/file/d/1ufshu3__FJ9i1uiJuMWml0VzRHTI6hnZ/view?usp=drivesdk
+
+rom: https://sourceforge.net/projects/oppo-a37/files/32bit/potato_A37-10-20220402-croquette.v3.2.2%2B18.Community.zip/download
+
+https://github.com/meghs-playground/Releases/releases/download/v17.1-20260826/lineage-rev-17.1-20260826-UNOFFICIAL-A37.zip
+
+gapps: https://sourceforge.net/projects/opengapps/files/arm/20220215/open_gapps-arm-10.0-pico-20220215.zip/download?use_mirror=onboardcloud&r&use_mirror=autoselect
